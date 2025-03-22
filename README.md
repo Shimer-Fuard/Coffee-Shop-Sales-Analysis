@@ -3,20 +3,18 @@ Coffee Shop Sales Analysis From 1/1/2023 To 6/1/2023
 
 # Coffee Shop Sales Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 This Power BI dashboard provides an in-depth analysis of a coffee shop's sales performance. It helps in understanding revenue trends, customer behavior, and product performance.
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 - **Power BI** – Used for data visualization and dashboard creation.
 - **Power Query** – Data cleaning and transformation.
 - **DAX (Data Analysis Expressions)** – Used for advanced calculations and measures.
 - **Excel/CSV** – Data source format before importing into Power BI.
 
-## 📊 Key Insights
-
-<span style="color: red;">This text is red</span>
+## Key Insights
 
 - **Revenue by Month**: Tracks monthly sales trends.
 - **Transactions by Day of the Week**: Identifies peak business days.
@@ -24,12 +22,12 @@ This Power BI dashboard provides an in-depth analysis of a coffee shop's sales p
 - **Sales by Product Category & Type**: Analyzes top-selling items and revenue contribution.
   
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Preview](CoffeeShopSales.pdf.png)
 
 
-## 📂 Data Source & Preparation
+## Data Source & Preparation
 
 - **Dataset Description:** The dataset includes transaction records from the coffee shop's POS system.
 - **Fields Used:**
@@ -44,7 +42,7 @@ This Power BI dashboard provides an in-depth analysis of a coffee shop's sales p
   - Created calculated columns and measures using DAX.
   - Built interactive visualizations in Power BI.
 
-## 🔍 Business Insights
+## Business Insights
 
 - **Peak Sales Periods:**
   - Most sales occur on **Fridays and Saturdays**.
@@ -56,13 +54,13 @@ This Power BI dashboard provides an in-depth analysis of a coffee shop's sales p
   - Introducing loyalty programs during off-peak hours can boost sales.
   - Offering bundled deals on lower-performing products may increase revenue.
 
-## 🚀 How to Use the Dashboard
+## How to Use the Dashboard
 
 1. Open the Power BI file (.pbix) in Power BI Desktop.
 2. Interact with the visuals to explore sales trends.
 3. Filter data by month, day, or product category for deeper insights.
 
-## ⚠️ Challenges & Solutions
+## Challenges & Solutions
 
 - **Challenge:** Inconsistent timestamps in the raw data.
   - **Solution:** Used Power Query to standardize date and time formats.
@@ -71,7 +69,7 @@ This Power BI dashboard provides an in-depth analysis of a coffee shop's sales p
 - **Challenge:** Missing product categories in some transactions.
   - **Solution:** Applied data validation rules and imputed missing values where possible.
 
-## 🔄 Future Improvements
+## Future Improvements
 
 - Add customer segmentation analysis.
 - Include forecasting models for revenue predictions.
