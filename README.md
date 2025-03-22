@@ -16,10 +16,13 @@ This Power BI dashboard provides an in-depth analysis of a coffee shop's sales p
 
 ## 📊 Key Insights
 
+<span style="color: red;">This text is red</span>
+
 - **Revenue by Month**: Tracks monthly sales trends.
 - **Transactions by Day of the Week**: Identifies peak business days.
 - **Transactions by Hour**: Reveals the busiest hours of the day.
 - **Sales by Product Category & Type**: Analyzes top-selling items and revenue contribution.
+  
 
 ## 🖼️ Dashboard Preview
 
