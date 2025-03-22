@@ -23,7 +23,7 @@ This Power BI dashboard provides an in-depth analysis of a coffee shop's sales p
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](https://github.com/your-username/CoffeeShopSales/blob/main/dashboard-image.png)
+![Dashboard Preview](CoffeeShopSales.pdf.png)
 
 
 ## 📂 Data Source & Preparation
