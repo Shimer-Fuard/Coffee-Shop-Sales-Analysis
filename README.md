@@ -1,7 +1,4 @@
-# CoffeeShopSales
-Coffee Shop Sales Analysis From 1/1/2023 To 6/1/2023
-
-# Coffee Shop Sales Dashboard
+# Coffee Shop Sales Analysis Report
 
 ## Project Overview
 
