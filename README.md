@@ -1,5 +1,11 @@
 # Coffee Shop Sales Analysis Report
 
+## Live Report
+**View the live interactive Power BI report here:**
+[Click to Open Report](https://app.powerbi.com/view?r=eyJrIjoiYWI4ZmYxMmQtOWQ2Yi00MjQ4LTgzZDItOGI1M2MwYTI5NzU3IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9
+)  
+*(Hosted on Power BI Service)*
+
 ## Project Overview
 
 This Power BI dashboard provides an in-depth analysis of a coffee shop's sales performance. It helps in understanding revenue trends, customer behavior, and product performance.
