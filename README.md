@@ -52,7 +52,7 @@ This Power BI project presents a comprehensive sales analysis for a fictional co
   - Developed three interactive report pages in Power BI,
     - Oveall Analysis
     - Analysis by Store
-    - Analysis Over TIME
+    - Analysis Over Time
   - Implemented navigation buttons for seamless movement between pages
   - Ensured the dashboard is clean, responsive, and user-friendly, with interactive slicers and consistent design across all visuals
 
@@ -70,6 +70,17 @@ This Power BI project presents a comprehensive sales analysis for a fictional co
 
 ## Project Structure 
 ## How to Use 
+- Use the web [link](https://app.powerbi.com/view?r=eyJrIjoiYWI4ZmYxMmQtOWQ2Yi00MjQ4LTgzZDItOGI1M2MwYTI5NzU3IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9) to view the report online, or download the [RestaurantOrderAnalysis.pbix](RestaurantOrderAnalysis.pbix) file to access and edit it using Power BI Desktop.
+- This report contains tHREE interactive pages:
+
+  1.Overall Analysis
+  
+  2.Store Analysis
+
+  3.Analysis Over Time
+  
+- At the top-right corner of each report page, there is  navigation buttons that help user to move between pages, These buttons make it easy to explore each layer of the report interactively and in a logical flow.
+- Use the attached [RestaurantOrderAnalysis.pdf](RestaurantOrderAnalysis.pdf) file to read a detailed overview of the report and share it easily with others
 ## Future Improvements 
 ## References
 
