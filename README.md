@@ -70,7 +70,7 @@ This Power BI project presents a comprehensive sales analysis for a fictional co
 
 ## Project Structure 
 ## How to Use 
-- Use the web [link](https://app.powerbi.com/view?r=eyJrIjoiYWI4ZmYxMmQtOWQ2Yi00MjQ4LTgzZDItOGI1M2MwYTI5NzU3IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9) to view the report online, or download the [RestaurantOrderAnalysis.pbix](RestaurantOrderAnalysis.pbix) file to access and edit it using Power BI Desktop.
+- Use the web [link](https://app.powerbi.com/view?r=eyJrIjoiYWI4ZmYxMmQtOWQ2Yi00MjQ4LTgzZDItOGI1M2MwYTI5NzU3IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9) to view the report online, or download the [CoffeeShopSales.pbix](CoffeeShopSales.pbix) file to access and edit it using Power BI Desktop.
 - This report contains tHREE interactive pages:
 
   1.Overall Analysis
@@ -80,7 +80,7 @@ This Power BI project presents a comprehensive sales analysis for a fictional co
   3.Analysis Over Time
   
 - At the top-right corner of each report page, there is  navigation buttons that help user to move between pages, These buttons make it easy to explore each layer of the report interactively and in a logical flow.
-- Use the attached [RestaurantOrderAnalysis.pdf](RestaurantOrderAnalysis.pdf) file to read a detailed overview of the report and share it easily with others
+- Use the attached [CoffeeShopSalesAnalysis.pdf](CoffeeShopSalesAnalysis.pdf) file to read a detailed overview of the report and share it easily with others
 ## Future Improvements 
 ## References
 
