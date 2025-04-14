@@ -7,6 +7,10 @@
 *(Hosted on Power BI Service)*
 ## Project Overview 
 
+This Power BI project presents a comprehensive sales analysis for a fictional coffee shop business with 3 store locations and 80 products spread across 9 product categories. The dashboard is designed to help stakeholders monitor performance, optimize product strategy, and identify growth opportunities through data driven insights.
+
+
+
 ##  Dataset Information 
 ## Tools & Technologies Used 
 ## Project Workflow 
