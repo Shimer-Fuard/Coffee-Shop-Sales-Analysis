@@ -62,11 +62,11 @@ This Power BI project presents a comprehensive sales analysis for a fictional co
 
 ## Dashboard Preview 
 
-![Dashboard Preview](OverallAnalysis.png) 
+![Dashboard Preview](Report_Snapshots/OverallAnalysis.png) 
 
-![Dashboard Preview](OverallAnalysis.png) 
+![Dashboard Preview](Report_Snapshots/StoreAnalysis.png) 
 
-![Dashboard Preview](OverallAnalysis.png) 
+![Dashboard Preview](Report_Snapshots/TimeAnalysis.png) 
 
 ## Project Structure 
 ## How to Use 
