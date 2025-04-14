@@ -69,6 +69,34 @@ This Power BI project presents a comprehensive sales analysis for a fictional co
 ![Dashboard Preview](Report_Snapshots/TimeAnalysis.png) 
 
 ## Project Structure 
+
+<pre style="background: #fff; padding: 0; border: none; font-family: monospace;">
+📂 Coffee-Shop-Sales-Analysis/ 
+  │-- 📁 Icons/ # Report icons   
+
+  │-- 📁 RawData/ # Contains raw and processed datasets 
+  
+        |-- Coffee Shop Sales.xlsx
+        
+  │-- 📁 Report_Snapshots/ # Report images
+    
+        |-- OverallAnalysis.png
+
+        |-- StoreAnalysis.png
+
+        |-- TimeAnalysis.png
+  
+  │-- 📁 CoffeeShopSales.pbix/ 
+  
+  │-- 📁 CoffeeShopSalesAnalysis.pdf/ 
+
+  │-- 📄 LICENSE/ # License Details/ 
+  
+  │-- 📄 README.md # Project documentation/
+
+  
+</pre>
+
 ## How to Use 
 - Use the web [link](https://app.powerbi.com/view?r=eyJrIjoiYWI4ZmYxMmQtOWQ2Yi00MjQ4LTgzZDItOGI1M2MwYTI5NzU3IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9) to view the report online, or download the [CoffeeShopSales.pbix](CoffeeShopSales.pbix) file to access and edit it using Power BI Desktop.
 - This report contains tHREE interactive pages:
