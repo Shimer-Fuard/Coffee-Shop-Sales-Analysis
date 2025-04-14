@@ -25,7 +25,22 @@ This Power BI project presents a comprehensive sales analysis for a fictional co
 - Each store generated over $230K in revenue, with Hell’s Kitchen slightly leading in overall revenue share.
 
 ##  Dataset Information 
+
+- **Data Source:** Maven Analytics (https://app.mavenanalytics.io/guided-projects/d7167b45-6317-49c9-b2bb-42e2a9e9c0bc)  
+- **File Type:** CSV 
+- **Time Period:** 2023/01/31 - 2023/03/31 
+- **File Size:** 406 KB
+- **Number of Table:** 2
+  - Order Details Table - 404 KB / Number of Fields(5)
+  - Menu Items - 2 KB / Number of Fields(4) 
+- **Number of Record:** 12266 (Number of Orders)
+
+
 ## Tools & Technologies Used 
+
+- Power BI (Data Modeling/Data Visualization)  
+- Power Query (Data Extracting/Data Cleaning)
+
 ## Project Workflow 
 
 1.**Data Collection & Import**
@@ -110,7 +125,16 @@ This Power BI project presents a comprehensive sales analysis for a fictional co
 - At the top-right corner of each report page, there is  navigation buttons that help user to move between pages, These buttons make it easy to explore each layer of the report interactively and in a logical flow.
 - Use the attached [CoffeeShopSalesAnalysis.pdf](CoffeeShopSalesAnalysis.pdf) file to read a detailed overview of the report and share it easily with others
 ## Future Improvements 
+
+- Add customer segmentation and loyalty tracking
+- Integrate real-time data sources
+- Include forecasting using AI visuals
+- Expand analysis to include inventory and supplier metrics
+  
 ## References
+
+- Maven Analytics: [Dataset](https://app.mavenanalytics.io/guided-projects/d7167b45-6317-49c9-b2bb-42e2a9e9c0bc)
+- Power BI Documentation: [Learn More](https://learn.microsoft.com/power-bi/)
 
 
 
