@@ -9,12 +9,65 @@
 
 This Power BI project presents a comprehensive sales analysis for a fictional coffee shop business with 3 store locations and 80 products spread across 9 product categories. The dashboard is designed to help stakeholders monitor performance, optimize product strategy, and identify growth opportunities through data driven insights.
 
+## Key Insights
 
+- Monthly revenue increased steadily from $82K in January to $166K in June, indicating successful sales strategies and seasonal growth.
+- All three stores, Hell’s Kitchen, Astoria, and Lower Manhattan contributed nearly equally to revenue and transactions, with slight differences in product preference.
+- Coffee and Tea categories dominated sales, accounting for the majority of both revenue and quantity sold.
+- Top 3 items by quantity sold:
+    - Brewed Chai Tea – 26,250 units
+    - Gourmet Brewed Coffee – 25,973 units
+    - Barista Espresso – 24,943 units
+- Least sold items included Green Beans, Green Tea, and Organic Chocolate, indicating potential overstock or low demand.
+- Sales peaked during 10 AM–12 PM across all locations.
+- Weekends showed stronger performance than weekdays, with Friday and Saturday being top-performing days.
+- Over 149,000 transactions processed, highlighting the scale of operations.
+- Each store generated over $230K in revenue, with Hell’s Kitchen slightly leading in overall revenue share.
 
 ##  Dataset Information 
 ## Tools & Technologies Used 
 ## Project Workflow 
+
+1.**Data Collection & Import**
+  - Gathered raw sales data covering transactions, product categories, store locations, and quantities sold over a 6-month period.
+  - Imported the dataset into Power BI Desktop for transformation and visualization.
+
+2.**Data Cleaning & Transformation**
+  - Used Power Query Editor to:
+    - Remove nulls and inconsistencies
+    - Format date columns and currency values
+    - Normalize categorical fields (e.g., product names, categories)
+  - Created new columns to support time-based analysis (month, weekday, quarter).
+
+3.**Data Modeling**
+  - Defined hierarchies for time-based exploration (year > quarter > month).
+
+4.**DAX Measures Creation**
+  - Built custom DAX measures for,
+    - Total Revenue
+    - Total Transactions
+    - Total Quantity Sold
+   
+5.**Dashboard Design**
+  - Developed three interactive report pages in Power BI,
+    - Oveall Analysis
+    - Analysis by Store
+    - Analysis Over TIME
+  - Implemented navigation buttons for seamless movement between pages
+  - Ensured the dashboard is clean, responsive, and user-friendly, with interactive slicers and consistent design across all visuals
+
+6.**Insight Extraction & Presentation**
+  - Identified key business insights (top products, peak hours, store-level trends).
+  - Delivered the report in PBIX, PDF, and Power BI Service formats for accessibility.
+
 ## Dashboard Preview 
+
+![Dashboard Preview](OverallAnalysis.png) 
+
+![Dashboard Preview](OverallAnalysis.png) 
+
+![Dashboard Preview](OverallAnalysis.png) 
+
 ## Project Structure 
 ## How to Use 
 ## Future Improvements 
