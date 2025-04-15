@@ -26,14 +26,13 @@ This Power BI project presents a comprehensive sales analysis for a fictional co
 
 ##  Dataset Information 
 
-- **Data Source:** Maven Analytics (https://app.mavenanalytics.io/guided-projects/d7167b45-6317-49c9-b2bb-42e2a9e9c0bc)  
-- **File Type:** CSV 
-- **Time Period:** 2023/01/31 - 2023/03/31 
-- **File Size:** 406 KB
-- **Number of Table:** 2
-  - Order Details Table - 404 KB / Number of Fields(5)
-  - Menu Items - 2 KB / Number of Fields(4) 
-- **Number of Record:** 12266 (Number of Orders)
+- **Data Source:** Maven Analytics (https://app.mavenanalytics.io/guided-projects/72ec0a0d-bc7d-4ac4-a8da-da811f9061d6)  
+- **File Type:** Excel
+- **Time Period:** 2023/01/31 - 2023/06/31 
+- **File Size:**  8.6 MB
+- **Number of Table:** 1
+  - Order Details Table - 404 KB / Number of Fields(11) 
+- **Number of Record:** 149,116 (Number of Orders)
 
 
 ## Tools & Technologies Used 
