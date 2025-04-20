@@ -31,7 +31,7 @@ This Power BI project presents a comprehensive sales analysis for a fictional co
 - **Time Period:** 2023/01/31 - 2023/06/31 
 - **File Size:**  8.6 MB
 - **Number of Table:** 1
-  - Order Details Table - 404 KB / Number of Fields(11) 
+  - Transactions Table - 404 KB / Number of Fields(11) 
 - **Number of Record:** 149,116 (Number of Orders)
 
 
