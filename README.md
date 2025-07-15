@@ -1,5 +1,13 @@
 # Coffee Shop Sales Analysis Report
 
+## Dashboard Preview 
+
+![Dashboard Preview](Report_Snapshots/OverallAnalysis.png) 
+
+![Dashboard Preview](Report_Snapshots/StoreAnalysis.png) 
+
+![Dashboard Preview](Report_Snapshots/TimeAnalysis.png) 
+
 ## Live Report
 **View the live interactive Power BI report here:**
 [Click to Open Report](https://app.powerbi.com/view?r=eyJrIjoiYWI4ZmYxMmQtOWQ2Yi00MjQ4LTgzZDItOGI1M2MwYTI5NzU3IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9
@@ -74,13 +82,7 @@ This Power BI project presents a comprehensive sales analysis for a fictional co
   - Identified key business insights (top products, peak hours, store-level trends).
   - Delivered the report in PBIX, PDF, and Power BI Service formats for accessibility.
 
-## Dashboard Preview 
 
-![Dashboard Preview](Report_Snapshots/OverallAnalysis.png) 
-
-![Dashboard Preview](Report_Snapshots/StoreAnalysis.png) 
-
-![Dashboard Preview](Report_Snapshots/TimeAnalysis.png) 
 
 ## Project Structure 
 
